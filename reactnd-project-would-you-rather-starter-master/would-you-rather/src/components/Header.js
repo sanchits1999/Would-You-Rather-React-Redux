@@ -6,7 +6,6 @@ import Leaderboard from "./Leaderboard"
 import Question from "./Question"
 import { Navbar, Card, Button, Image, Nav } from "react-bootstrap"
 import { connect } from "react-redux"
-import "./Header.css"
 
 const Header = (props) => {
 
